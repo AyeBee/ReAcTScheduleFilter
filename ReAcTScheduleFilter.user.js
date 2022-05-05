@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Re:AcT Schedule Filter
-// @namespace    http://ayebee.net/
+// @namespace    https://github.com/AyeBee/ReAcTScheduleFilter
 // @version      0.1
 // @description  Re:AcT Schedule にメンバー別のフィルター機能を追加する。
 // @author       ayebee
