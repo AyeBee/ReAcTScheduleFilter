@@ -130,6 +130,7 @@
     filtersWrapper.style.color = '#fff';
     filtersWrapper.style.position = 'fixed';
     filtersWrapper.style.bottom = 0;
+    filtersWrapper.style.zIndex = 9999;
     filtersWrapper.append(useFilteringWrapper);
     filtersWrapper.append(filters);
     document.querySelector('.v-main__wrap > div').append(filtersWrapper);
